@@ -1,0 +1,404 @@
+.sign-up-details {
+    background-color: #f0f0ff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .sign-up-details .div {
+    background-color: #f0f0ff;
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .sign-up-details .frame {
+    background-color: #ffffff;
+    border-radius: 15px;
+    height: 834px;
+    left: 525px;
+    overflow: hidden;
+    position: absolute;
+    top: 95px;
+    width: 515px;
+  }
+  
+  .sign-up-details .text-wrapper {
+    color: #000000;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 21px;
+    white-space: nowrap;
+    width: 288px;
+  }
+  
+  .sign-up-details .p {
+    color: #606060;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 100px;
+    width: 448px;
+  }
+  
+  .sign-up-details .text-wrapper-2 {
+    color: #909090;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 147px;
+    white-space: nowrap;
+    width: 242px;
+  }
+  
+  .sign-up-details .text-wrapper-3 {
+    color: #909090;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 234px;
+    white-space: nowrap;
+    width: 129px;
+  }
+  
+  .sign-up-details .text-wrapper-4 {
+    color: #909090;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 416px;
+    white-space: nowrap;
+    width: 129px;
+  }
+  
+  .sign-up-details .text-wrapper-5 {
+    color: #909090;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 505px;
+    white-space: nowrap;
+    width: 226px;
+  }
+  
+  .sign-up-details .text-wrapper-6 {
+    color: #909090;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 319px;
+    white-space: nowrap;
+    width: 160px;
+  }
+  
+  .sign-up-details .calendar-blank-wrapper {
+    border: 1px solid;
+    border-color: #d2d2d2;
+    border-radius: 8px;
+    height: 36px;
+    left: 24px;
+    overflow: hidden;
+    position: absolute;
+    top: 258px;
+    width: 464px;
+  }
+  
+  .sign-up-details .calendar-blank {
+    height: 24px !important;
+    left: 429px !important;
+    position: absolute !important;
+    top: 6px !important;
+    width: 24px !important;
+  }
+  
+  .sign-up-details .div-wrapper {
+    background-color: #000aff;
+    border-radius: 8px;
+    height: 36px;
+    left: 17px;
+    overflow: hidden;
+    position: absolute;
+    top: 595px;
+    width: 464px;
+  }
+  
+  .sign-up-details .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 159px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 3px;
+    width: 146px;
+  }
+  
+  .sign-up-details .frame-2 {
+    border: 1px solid;
+    border-color: #d2d2d2;
+    border-radius: 8px;
+    height: 36px;
+    left: 24px;
+    overflow: hidden;
+    position: absolute;
+    top: 343px;
+    width: 464px;
+  }
+  
+  .sign-up-details .text-wrapper-8 {
+    color: #606060;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+    white-space: nowrap;
+    width: 152px;
+  }
+  
+  .sign-up-details .vector {
+    height: 11px;
+    left: 431px;
+    position: absolute;
+    top: 15px;
+    width: 17px;
+  }
+  
+  .sign-up-details .frame-3 {
+    border: 1px solid;
+    border-color: #d2d2d2;
+    border-radius: 8px;
+    height: 36px;
+    left: 24px;
+    overflow: hidden;
+    position: absolute;
+    top: 440px;
+    width: 464px;
+  }
+  
+  .sign-up-details .text-wrapper-9 {
+    color: #606060;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 49px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 548px;
+    white-space: nowrap;
+    width: 100px;
+  }
+  
+  .sign-up-details .text-wrapper-10 {
+    color: #909090;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 208px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 548px;
+    white-space: nowrap;
+    width: 100px;
+  }
+  
+  .sign-up-details .text-wrapper-11 {
+    color: #909090;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 367px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 548px;
+    white-space: nowrap;
+    width: 100px;
+  }
+  
+  .sign-up-details .frame-4 {
+    border: 1px solid;
+    border-color: #d2d2d2;
+    border-radius: 8px;
+    height: 36px;
+    left: 24px;
+    overflow: hidden;
+    position: absolute;
+    top: 177px;
+    width: 464px;
+  }
+  
+  .sign-up-details .by-signing-up-you {
+    color: transparent;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 804px;
+    width: 481px;
+  }
+  
+  .sign-up-details .span {
+    color: #888888;
+  }
+  
+  .sign-up-details .text-wrapper-12 {
+    color: #606060;
+    text-decoration: underline;
+  }
+  
+  .sign-up-details .text-wrapper-13 {
+    color: #888888;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 228px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 644px;
+    white-space: nowrap;
+    width: 41px;
+  }
+  
+  .sign-up-details .frame-5 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #b5b5b5;
+    border-radius: 8px;
+    height: 48px;
+    left: 17px;
+    overflow: hidden;
+    position: absolute;
+    top: 693px;
+    width: 464px;
+  }
+  
+  .sign-up-details .text-wrapper-14 {
+    color: #888888;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 150px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12px;
+    width: 212px;
+  }
+  
+  .sign-up-details .linkedin-logo {
+    height: 32px !important;
+    left: 110px !important;
+    position: absolute !important;
+    top: 8px !important;
+    width: 32px !important;
+  }
+  
+  .sign-up-details .overlap-group {
+    border: 1px solid;
+    border-color: #606060;
+    border-radius: 6px;
+    height: 12px;
+    left: 26px;
+    position: absolute;
+    top: 552px;
+    width: 12px;
+  }
+  
+  .sign-up-details .ellipse {
+    background-color: #606060;
+    border-radius: 3px;
+    height: 6px;
+    left: 2px;
+    position: relative;
+    top: 2px;
+    width: 6px;
+  }
+  
+  .sign-up-details .ellipse-2 {
+    border: 1px solid;
+    border-color: #606060;
+    border-radius: 6px;
+    height: 12px;
+    left: 189px;
+    position: absolute;
+    top: 552px;
+    width: 12px;
+  }
+  
+  .sign-up-details .ellipse-3 {
+    border: 1px solid;
+    border-color: #606060;
+    border-radius: 6px;
+    height: 12px;
+    left: 349px;
+    position: absolute;
+    top: 552px;
+    width: 12px;
+  }
+  
+  .sign-up-details .lean-prep {
+    color: transparent;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 40px;
+    font-weight: 600;
+    left: 61px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+    width: 249px;
+  }
+  
+  .sign-up-details .text-wrapper-15 {
+    color: #000000;
+  }
+  
+  .sign-up-details .text-wrapper-16 {
+    color: #000aff;
+  }
+  

@@ -1,0 +1,51 @@
+.calendar-blank-screen {
+    background-image: url(./vector.svg);
+    background-size: 100% 100%;
+    height: 24px;
+    left: -1462px;
+    position: relative;
+    top: -2429px;
+    width: 24px;
+  }
+  
+  .calendar-blank-screen .overlap-group {
+    height: 19px;
+    left: 3px;
+    position: relative;
+    top: 2px;
+    width: 18px;
+  }
+  
+  .calendar-blank-screen .vector {
+    height: 18px;
+    left: 0;
+    position: absolute;
+    top: 2px;
+    width: 18px;
+  }
+  
+  .calendar-blank-screen .img {
+    height: 4px;
+    left: 13px;
+    position: absolute;
+    top: 0;
+    width: 1px;
+  }
+  
+  .calendar-blank-screen .vector-2 {
+    height: 4px;
+    left: 4px;
+    position: absolute;
+    top: 0;
+    width: 1px;
+  }
+  
+  .calendar-blank-screen .vector-3 {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 6px;
+    width: 18px;
+  }
+  

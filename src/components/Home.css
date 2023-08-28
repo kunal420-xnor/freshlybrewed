@@ -1,0 +1,226 @@
+.landing-page {
+    background-color: #ffffff;
+    height: 1024px;
+    width: 1440px;
+  }
+  
+  .landing-page .overlap {
+    height: auto !important;
+    position: relative;
+    top: 15px;
+  }
+  
+  .landing-page .overlap-group {
+    height: auto;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: auto;
+  }
+  
+  .landing-page .lean-prep {
+    color: transparent;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 40px;
+    font-weight: 600;
+    left: 61px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 249px;
+  }
+  
+  .landing-page .text-wrapper {
+    color: #000000;
+  }
+  
+  .landing-page .span {
+    color: #000aff;
+  }
+  
+  .landing-page .welcome-to-leanprep {
+    color: transparent;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 212px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 478px;
+    width: 1016px;
+  }
+  
+  .landing-page .text-wrapper-2 {
+    color: #606060;
+  }
+  
+  .landing-page .div {
+    color: #606060;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 555px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 769px;
+    width: 278px;
+  }
+  
+  .landing-page .don-t-let-nerves-get {
+    color: transparent;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    left: 227px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 282px;
+    width: 977px;
+  }
+  
+  .landing-page .text-wrapper-3 {
+    color: #424242;
+  }
+  
+  .landing-page .text-wrapper-4 {
+    color: #000000;
+    font-family: "Product Sans-Bold", Helvetica;
+    font-weight: 700;
+  }
+  
+  .landing-page .frame {
+    align-items: center;
+    background-color: #000aff;
+    border-radius: 15px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    left: 509px;
+    padding: 10px 0px 10px 10px;
+    position: absolute;
+    top: 689px;
+    width: 413px;
+  }
+  
+  .landing-page .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: 310px;
+  }
+  
+  .landing-page .text-wrapper-6 {
+    color: #000000;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 790px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    text-decoration: underline;
+    top: 769px;
+    white-space: nowrap;
+    width: 90px;
+  }
+  
+  .landing-page .vector {
+    height: 478px;
+    left: 0;
+    position: absolute;
+    top: 35px;
+    width: 493px;
+  }
+  
+  .landing-page .blob {
+    height: 517px;
+    left: 863px;
+    position: absolute;
+    top: 492px;
+    width: 577px;
+  }
+  
+  .landing-page .div-wrapper {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 10px;
+    left: 1085px;
+    padding: 10px;
+    position: absolute;
+    top: 5px;
+  }
+  
+  .landing-page .text-wrapper-7 {
+    color: #000000;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .landing-page .frame-2 {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 10px;
+    left: 917px;
+    padding: 10px;
+    position: absolute;
+    top: 5px;
+  }
+  
+  .landing-page .frame-3 {
+    align-items: center;
+    border: 1px solid;
+    border-color: #000aff;
+    border-radius: 15px;
+    display: flex;
+    gap: 10px;
+    height: 39px;
+    justify-content: center;
+    left: 1227px;
+    top: 10px;
+    position: absolute;
+    width: 152px;
+  }
+  
+  .landing-page .text-wrapper-8 {
+    color: #000aff;
+    font-family: "Product Sans-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: -4px;
+    margin-top: -6px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .landing-page .video-camera {
+    height: 32px !important;
+    margin-bottom: -6.5px !important;
+    margin-top: -6.5px !important;
+    position: relative !important;
+    width: 32px !important;
+  }
+  
